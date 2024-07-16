@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Arun&#039;s Website</title>
+      <link>https://arun.gg</link>
+      <description>Last 10 notes on Arun&#039;s Website</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Blog</title>
+    <link>https://arun.gg/blog/</link>
+    <guid>https://arun.gg/blog/</guid>
+    <description></description>
+    <pubDate>Tue, 16 Jul 2024 05:59:24 GMT</pubDate>
+  </item><item>
+    <title>recipes</title>
+    <link>https://arun.gg/recipes/</link>
+    <guid>https://arun.gg/recipes/</guid>
+    <description></description>
+    <pubDate>Tue, 16 Jul 2024 05:53:17 GMT</pubDate>
+  </item><item>
+    <title>Projects</title>
+    <link>https://arun.gg/projects</link>
+    <guid>https://arun.gg/projects</guid>
+    <description>...</description>
+    <pubDate>Tue, 16 Jul 2024 05:41:28 GMT</pubDate>
+  </item><item>
+    <title>resume (wip)</title>
+    <link>https://arun.gg/resume</link>
+    <guid>https://arun.gg/resume</guid>
+    <description>look, I&#039;m gonna level with you. I haven&#039;t updated my resume in years. One day I’ll make a typst template or something and it’ll be great (my LaTeX template has collected dust) but this is all you get for now: emailarun@arun.gggithubgithub.com/Arunscapelinkedinlinkedin.com/in/arun-woosaree Work Experience (2023 - Present) ATB Financial react salesforce python playwright (2022) General Dynamics C++ radios C# Devops gitlab (2018-2020) ATB Financial (University Co-op student) react java express.js gcp enterprise content management python api testing gitlab Education University of Alberta Bsc.</description>
+    <pubDate>Tue, 16 Jul 2024 05:25:25 GMT</pubDate>
+  </item><item>
+    <title>Arun&#039;s Website</title>
+    <link>https://arun.gg/</link>
+    <guid>https://arun.gg/</guid>
+    <description>This is not a typical website. It’s a collection of notes, a subset of my Obsidian notebook.</description>
+    <pubDate>Tue, 16 Jul 2024 05:20:27 GMT</pubDate>
+  </item><item>
+    <title>Gaming on Linux is easy, actually</title>
+    <link>https://arun.gg/blog/Gaming-on-Linux-is-easy,-actually</link>
+    <guid>https://arun.gg/blog/Gaming-on-Linux-is-easy,-actually</guid>
+    <description>nothing to see here, this is a work in progress Originally written: 2024-06-18 Last modified: 2024-06-18 Blog Home.</description>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hello, World!</title>
+    <link>https://arun.gg/blog/Hello,-world!</link>
+    <guid>https://arun.gg/blog/Hello,-world!</guid>
+    <description>I’ve always liked the idea of having my own programmer blog where I can write about niche topics and my weird ideas. One big problem though is that I hate writing.</description>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>You too can use Arch, BTW</title>
+    <link>https://arun.gg/blog/You-too-can-use-Arch,-BTW</link>
+    <guid>https://arun.gg/blog/You-too-can-use-Arch,-BTW</guid>
+    <description>Nothing to see here, this is a work in progress Originally written: 2024-06-18 Last modified: 2024-06-18 Blog Home.</description>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
